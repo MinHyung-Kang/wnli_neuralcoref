@@ -1,4 +1,7 @@
-/data/
 /env/
 /code/neuralcoref/
+code/__pycache__/
 /code/explore/.ipynb_checkpoints
+
+data/*
+!data/pronoun_dict
